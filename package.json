@@ -1,0 +1,19 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "A course on node.js and express I followed, which was instructed by John Smilga on the Freecodecamp youtube channel.",
+  "main": "3-modules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avipriyaghosh487/node-express-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avipriyaghosh487/node-express-course/issues"
+  },
+  "homepage": "https://github.com/avipriyaghosh487/node-express-course#readme"
+}
