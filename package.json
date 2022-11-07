@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/avipriyaghosh487/node-express-course/issues"
   },
-  "homepage": "https://github.com/avipriyaghosh487/node-express-course#readme"
+  "homepage": "https://github.com/avipriyaghosh487/node-express-course#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
