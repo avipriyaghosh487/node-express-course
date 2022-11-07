@@ -4,7 +4,7 @@
   "description": "A course on node.js and express I followed, which was instructed by John Smilga on the Freecodecamp youtube channel.",
   "main": "3-modules.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/avipriyaghosh487/node-express-course#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
